@@ -22,7 +22,8 @@ This project is an advanced **Image Encryption and Decryption Tool** developed u
 
 ## 🖥️ GUI Preview
 
-![GUI Screenshot](Screenshot 2025-06-09 091851.png)  
+![GUI Screenshot](images/)
+
 *A clean, simple interface with options for encryption, decryption, and key entry.*
 
 ---
